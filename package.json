@@ -1,6 +1,6 @@
 {
   "name": "webpack-version-file-plugin",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Generates a file with your app's package.josn information and build date",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mvanede/webpack-version-file-plugin.git"
+    "url": "https://github.com/GGHMullenLowe/webpack-version-file-plugin.git"
   },
   "keywords": [
     "version",
@@ -26,8 +26,8 @@
   },
   "homepage": "https://github.com/mvanede/webpack-version-file-plugin",
   "dependencies": {
-    "ejs": "~> 2.5.5",
-    "underscore": "~1.6.0",
+    "ejs": "^2.5.5",
+    "underscore": "^1.6.0",
     "fs": "latest"
   },
   "devDependencies": {
